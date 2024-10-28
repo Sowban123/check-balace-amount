@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+
+}
+body{
+    background-image: url(img/bcbg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+   /* border: 2px solid black; */
+   width: 50%;
+   height: 65vh;
+   text-align: center;
+   align-items: center;
+   /* flex-direction: column; */
+   margin-left: 23rem;
+   margin-top: 9rem;
+   
+   
+   
+   
+}
+h1{
+    font-size: 1.7rem;
+    font-weight: 1900;
+    font-style: italic;
+    
+}
+li{
+    list-style: none;
+}
+#bill{
+    font-size: 1rem;
+    padding: 10px 10px 10px 10px;
+    margin: 30px;
+    width: 40%;
+    height: 5vh;
+    box-shadow: inset;
+    border-radius: 10px;
+    background-color: wheat;
+}
+#given{
+    font-size: 1rem;
+    padding: 10px;
+    margin: 15px;
+    width: 40%;
+    height: 5vh;
+    box-shadow: inset;
+    border-radius: 10px;
+    background-color: wheat;
+
+}
+#btn{
+    font-size: 1rem;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    /* background-color:aquamarine; */
+    
+}
+#btn:hover{
+background-color:aquamarine;
+}
+#p{
+    font-size: 2rem;
+    font-weight: 800;
+    color: darkblue;
+
+}
