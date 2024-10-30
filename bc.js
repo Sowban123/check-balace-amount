@@ -8,3 +8,5 @@ c.addEventListener('click',function(){
     f.append(d)
     f.innerHTML=`Balance Amount ${d}`
 })
+
+
